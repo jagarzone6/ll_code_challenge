@@ -4,7 +4,7 @@
 
 Clone the repo and push up your changes and share link.
 
-Using Protractor or WebDriverIO
+Using Protractor + CucumberJS + TypeScript.
 Bonus points for leveraging a BDD tool.
 
 Fork this Repo<br />
