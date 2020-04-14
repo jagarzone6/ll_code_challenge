@@ -5,7 +5,6 @@
 Clone the repo and push up your changes and share link.
 
 Using Protractor + CucumberJS + TypeScript.
-Bonus points for leveraging a BDD tool.
 
 Fork this Repo<br />
 Create a branch and name it with your "{firstname_lastname}_LL_challenge"<br />
