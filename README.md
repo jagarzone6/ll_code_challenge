@@ -4,7 +4,7 @@
 
 Clone the repo and push up your changes and share link.
 
-Using Protractor + CucumberJS + TypeScript.
+Using Protractor + CucumberJS + TypeScript (optional).
 
 Fork this Repo<br />
 Create a branch and name it with your "{firstname_lastname}_LL_challenge"<br />
